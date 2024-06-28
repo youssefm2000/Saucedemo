@@ -35,6 +35,8 @@
    
  * to execute tests with report:
  * ` allure serve allure-results `
+### 🚀 For Watching Running Test Cases:
+   https://www.youtube.com/watch?v=7WA5arvxfsA
 ### 🗃 Generate reports:
  * Allure Report will open automatically after Execution.
 <div align="center">
@@ -43,8 +45,7 @@
   <img width="921" alt="allure" src="https://github.com/youssefm2000/TrelloApi_PostmanProject/assets/74185165/f425000c-4a40-4206-856d-d689ba07fa6e">
   <img width="921" alt="allure" src="https://github.com/youssefm2000/TrelloApi_PostmanProject/assets/74185165/a03a8819-d60f-4fe8-8dd2-2553494a686f">
 
-  ### 🚀 For Watching Running Test Cases:
-   https://www.youtube.com/watch?v=7WA5arvxfsA
+  
    
 
   
