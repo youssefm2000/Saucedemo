@@ -42,7 +42,7 @@
 <div align="center">
       <h1>  📊 Allure Report 📊 </h1>
   </div>
-  <img width="921" alt="allure" src="https://github.com/youssefm2000/TrelloApi_PostmanProject/assets/74185165/f425000c-4a40-4206-856d-d689ba07fa6e">
+  <img width="921" alt="allure" src="https://github.com/youssefm2000/Glamera_Task/assets/74185165/e73c1743-c9f4-4c1c-afa3-da2f4c108fe7">
   <img width="921" alt="allure" src="https://github.com/youssefm2000/TrelloApi_PostmanProject/assets/74185165/a03a8819-d60f-4fe8-8dd2-2553494a686f">
 
   
